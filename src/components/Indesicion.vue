@@ -78,6 +78,7 @@ input {
     padding: 10px 15px;
     border-radius: 5px;
     border: none;
+    margin-bottom: 10px;
 }
 
 input:focus {
@@ -87,7 +88,7 @@ input:focus {
 p {
     color: white;
     font-size: 20px;
-    margin-top: 0px;
+    margin-top: 10px;
 }
 
 h1,
