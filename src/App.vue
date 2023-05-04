@@ -1,6 +1,4 @@
 <template>
-  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-  <!-- <Counter :start="103" title="Hola mundo"/> -->
   <Indesicion />
 </template>
 
